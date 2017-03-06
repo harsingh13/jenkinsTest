@@ -1,4 +1,4 @@
-package haha;
+package singh;
 
 public class Weather {
 

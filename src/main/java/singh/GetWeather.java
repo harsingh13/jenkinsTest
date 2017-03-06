@@ -1,6 +1,4 @@
-package haha;
-
-import haha.Weather;
+package singh;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -18,6 +16,8 @@ import com.fasterxml.jackson.databind.node.ArrayNode;
 
 import org.apache.log4j.Logger;
 import org.json.JSONObject;
+
+import singh.Weather;
 
 //import org.apache.log4j.Logger;
 

@@ -1,4 +1,4 @@
-package haha;
+package singh;
 
 import static com.jayway.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.equalTo;
@@ -6,7 +6,6 @@ import static org.hamcrest.Matchers.equalTo;
 import java.io.IOException;
 
 import org.apache.log4j.Logger;
-import org.json.JSONObject;
 import org.testng.annotations.Test;
 
 import com.jayway.restassured.http.ContentType;
